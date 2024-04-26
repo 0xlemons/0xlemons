@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 Currently I'm not working on anything, send me some ideas!<br>🌱 Currently I'm learning Python and JS<br>💬 Contact me on discord @luvlemons
+🔭 Currently I'm not working on anything, send me some ideas!<br>🌱 Currently I'm learning Python and JS<br>💬 Contact me on discord @luvlemons<br><br>🖥️ Website: https://lemons.fun<br>🧅 Onion Site: Coming soon
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1126936983369957457) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/1126936983369957457) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24712222) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
