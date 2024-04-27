@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently I’m not working on anything, send me some ideas!<br>🌱 Currently I’m learning Python and JS<br>💬 Contact me on discord @luvlemons<br><br>🖥️ Website: https://lemons.fun<br>🧅 Onion Site: [here](http://lemonsbioa23nnlehg4aqkkigzgx377e5tles2rfi4a3ylmrl62sdzqd.onion)
+🔭 Currently I’m not working on anything, send me some ideas!<br>🌱 Currently I’m learning Python and JS<br>💬 Contact me on discord @luvlemons<br><br>🖥️ Website: https://lemons.fun<br>🧅 Onion Site: [here](http://jwauad2m3wahtb63kcv2jexq6ovnwtl3nvm67msxzydjip2l77eie7id.onion)
 
 
 ## 🌐 Socials:
