@@ -6,7 +6,7 @@
 - Learn C
 - Learn C#
 - Learn GoLang
-- Learno bfuscation, pointers, defence evasion.
+- Learno obfuscation, pointers, defence evasion.
 
 
 ## 🌐 Socials:
