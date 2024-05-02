@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Currently I’m not working on anything, send me some ideas!<br>🌱 Currently I know Python<br><br>🖥️ Website: [here](https://lemons.fun)<br>🧅 Onion Mirror: [here](http://jwauad2m3wahtb63kcv2jexq6ovnwtl3nvm67msxzydjip2l77eie7id.onion)
 
-# *📋 ToDo: 
+## 📋 ToDo: 
 - Learn C
 - Learn C#
 - Learn GoLang
