@@ -3,7 +3,7 @@
 (both down atm)
 
 ## 📋 ToDo: 
-- Learn C (Day 1/30 Done)
+- Learn C (Day 4/30 Done)
 - Learn C# (Day 0/30 Done)
 - Learn GoLang (Day 0/30 Done)
 - Learno obfuscation, pointers, defence evasion.
