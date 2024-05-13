@@ -2,12 +2,6 @@
 🔭 Currently I’m learning C<br>🌱 Currently I know Python<br><br>🖥️ Website: [here](https://lemons.fun)<br>🧅 Onion Mirror: [here](http://jwauad2m3wahtb63kcv2jexq6ovnwtl3nvm67msxzydjip2l77eie7id.onion)
 (both down atm)
 
-## 📋 ToDo: 
-- Learn C (Day 4/30 Done)
-- Learn C# (Day 0/30 Done)
-- Learn GoLang (Day 0/30 Done)
-- Learno obfuscation, pointers, defence evasion.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1126936983369957457) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24712222) 
