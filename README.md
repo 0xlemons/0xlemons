@@ -2,7 +2,7 @@
 🔭 Currently I’m learning C#<br>🌱 Currently I know Python<br><br>🖥️ Website: [here](https://lemons.fun)<br>🧅 Onion Mirror: [here](http://jwauad2m3wahtb63kcv2jexq6ovnwtl3nvm67msxzydjip2l77eie7id.onion)
 (both down atm)
 
-🪪 Bio Site: [here](https://fbi.vin)
+🪪 Bio Site: [here](https://exil.ing)
 
 
 ## 🌐 Socials:
