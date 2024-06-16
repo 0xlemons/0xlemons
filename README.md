@@ -1,23 +1,22 @@
 # 💫 About Me:
-🔭 Currently I’m learning C#<br>🌱 Currently I know Python<br><br>🖥️ Website: [here](https://lemons.fun)<br>🧅 Onion Mirror: [here](http://jwauad2m3wahtb63kcv2jexq6ovnwtl3nvm67msxzydjip2l77eie7id.onion)
-(both down atm)
-
-🪪 Bio Site: [here](https://exil.ing)
+🔭 Currently I’m working on Uploaded.lol <br>🌱 Currently I know Python, Typescript, and some svelte<br><br>📞 Contact: lemons@retrak.cool
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1126936983369957457) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24712222) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uploaded) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24712222) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0xlemons&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xlemons&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xlemons&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xlemons&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0xlemons&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=0xlemons&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
