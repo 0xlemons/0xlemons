@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently I’m working on Uploaded.lol <br>🌱 Currently I know Python, Typescript, and some svelte<br><br>📞 Contact: lemons@retrak.cool
+🔭 Currently I’m working on bytebin.cc <br>🌱 Currently I know Python, Typescript, and some svelte<br><br>📞 Contact: lemons@retrak.cool
 
 
 ## 🌐 Socials:
