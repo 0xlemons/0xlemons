@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 Currently I’m working on soon.com <br>🌱 Currently I have worked with Python TS, JS, svelte, and nextJs<br><br>📞 Contact: lemons@retrak.cool
 
-🖥️ Backend Dev (frontend makes me wanna end it all)
-🔗 Owner @ bytebin.cc (Fully developed by me), tragic.lol (Backend Dev), and illegal.ws(Fully developed by me) (all coming soon)
+🖥️ Backend Dev (frontend makes me wanna end it all) <br>
+🔗 Projects:<br>- bytebin.cc (Fully developed by me)<br>- tragic.lol (Backend Dev)<br>- illegal.ws(Fully developed by me)<br>(all coming soon)
 
 
 
